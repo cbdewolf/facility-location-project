@@ -1,4 +1,4 @@
-def load_data(cityList, coordList, popList, distanceList):
+def loadData(cityList, coordList, popList, distanceList):
     
     real = []
     i = 0 
